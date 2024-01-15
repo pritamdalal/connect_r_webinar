@@ -1,0 +1,5 @@
+"0","df <- read_csv(""crop_yields.csv"", show_col_types = FALSE)"
+"1","
+Restarting R session...
+
+"

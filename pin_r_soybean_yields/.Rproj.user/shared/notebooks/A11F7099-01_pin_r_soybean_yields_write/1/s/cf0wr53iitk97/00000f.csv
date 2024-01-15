@@ -1,0 +1,2 @@
+"0","board <- board_connect(auth = ""envvar"")"
+"2","[38;5;255mConnecting to Posit Connect 2023.07.0 at <https://colorado.posit.co/rsc>[39m"
